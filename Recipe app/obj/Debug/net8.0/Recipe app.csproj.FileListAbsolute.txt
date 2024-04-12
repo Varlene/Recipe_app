@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\bin\Debug\net8.0\Recipe app.exe
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\bin\Debug\net8.0\Recipe app.deps.json
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\bin\Debug\net8.0\Recipe app.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\bin\Debug\net8.0\Recipe app.dll
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\bin\Debug\net8.0\Recipe app.pdb
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\obj\Debug\net8.0\Recipe app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\obj\Debug\net8.0\Recipe app.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\obj\Debug\net8.0\Recipe app.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\obj\Debug\net8.0\Recipe app.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\obj\Debug\net8.0\Recipe app.dll
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\obj\Debug\net8.0\refint\Recipe app.dll
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\obj\Debug\net8.0\Recipe app.pdb
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\obj\Debug\net8.0\Recipe app.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\PROG part 1\Recipe app\Recipe app\obj\Debug\net8.0\ref\Recipe app.dll
