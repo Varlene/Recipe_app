@@ -88,7 +88,7 @@ namespace RecipeApp
             }
         }
 
-        private int GetNumberFromUser(string prompt)//commit
+        private int GetNumberFromUser(string prompt)
         {
             int num;
             while (true)
