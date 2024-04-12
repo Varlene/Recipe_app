@@ -7,7 +7,7 @@ namespace RecipeApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Recipe Maker!");
+            Console.WriteLine("Welcome to Let him cook");
 
             RecipeManager recipeManager = new RecipeManager();
             bool continueProgram = true;
